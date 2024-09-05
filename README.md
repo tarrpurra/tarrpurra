@@ -10,7 +10,7 @@ This is tarrpurra I am a  *frontend devloper* and have keen intrest in game deve
 - **Tools:** ![docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg) ![blender](https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg) ![photoShop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg) ![illustrator](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg)
 
 ### 🛠️ Projects
-- [JOKE Generator]([https://github.com/tarrpurra/JOKE](https://tarrpurra.github.io/Jo_KE/)): It uses javascript and can provide random jokes on click of a button.
+- [JOKE Generator](https://tarrpurra.github.io/Jo_KE/): It uses javascript and can provide random jokes on click of a button.
 - [Meme Generator](Link to Repo): It uses React and provide the user a template to create there own meme and download the meme.
 - [One nation one vote portal] It uses HTML,CSS,javascript in frontend and uses PHP as Backend.
 

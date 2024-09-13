@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is tarrpurra I am a  *frontend devloper* and have keen intrest in game development,currently I am focused on learning *Backend frameworks* and currently working on *notted!* an React app to store notes.  
+This is tarrpurra I am a  *frontend devloper* and have keen interest in gamedevelopment,currently I am focused on learning *Backend frameworks* and currently working on *notted!* an React app to store notes.  
 
 - 👯 I’m looking to collaborate on **React projects**
 - 🌱 I’m currently learning **python/Flask for backend**

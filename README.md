@@ -25,4 +25,4 @@ This is tarrpurra I am a  *frontend devloper* and have keen interest in gamedeve
 
 
 
-## **Thanks for visting **
+## **Thanks for visting**

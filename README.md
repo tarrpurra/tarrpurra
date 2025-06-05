@@ -14,8 +14,9 @@ This is tarrpurra I am a  *frontend devloper* and have keen interest in gamedeve
 
 ### 🛠️ Projects
 - [JOKE Generator](https://tarrpurra.github.io/Jo_KE/): It uses javascript and can provide random jokes on click of a button.
+- [Market Place](https://market-3g94.onrender.com): It uses Python Flask as the backend and this project helped me in learning Flask and resolving many security challenges.
 - [Meme Generator](Link to Repo): It uses React and provide the user a template to create there own meme and download the meme.
-- [One nation one vote portal] It uses HTML,CSS,javascript in frontend and uses PHP as Backend.
+- [One nation one vote portal] It uses React in frontend and joining the Smart contracts through hardhat and used express js for backend .
 - [TenZies game](https://tarrpurra.github.io/Tenzies/): It uses React as main base in this game player need to match the number to complete the game.
 
 ### 🌐 Connect with me

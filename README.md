@@ -17,6 +17,8 @@ This is tarrpurra I am a  *frontend devloper* and have keen interest in gamedeve
 - [Market Place](https://market-3g94.onrender.com): It uses Python Flask as the backend and this project helped me in learning Flask and resolving many security challenges.
 - [Meme Generator](Link to Repo): It uses React and provide the user a template to create there own meme and download the meme.
 - [Decentralized Voting App](https://vote-red-two.vercel.app/) It uses React in frontend and joining the Smart contracts through hardhat and used express js for backend .
+  > [!CAUTION]
+  > Caution Change to Avalanche TestNet Before Voting and Refresh the browser if necessary.
 - [TenZies game](https://tarrpurra.github.io/Tenzies/): It uses React as main base in this game player need to match the number to complete the game.
 
 ### 🌐 Connect with me

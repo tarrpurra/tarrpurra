@@ -15,8 +15,8 @@ This is tarrpurra I am a  *frontend devloper* and have keen interest in gamedeve
 ### 🛠️ Projects
 
 #### FullStack website
-- [AI Email Triage System](): It uses React, and Google Gmail does authentication, and can also see all the email details and provide an AI email reply, and the user can also sort email according to importance.
-- [Supply Chain Management Using Blockchain](): It is Created Using React, it has a 3D background, and all the transactions are done using Avalanche Blockchain.
+- [AI Email Triage System](Link To Repo ): It uses React, and Google Gmail does authentication, and can also see all the email details and provide an AI email reply, and the user can also sort email according to importance.
+- [Supply Chain Management Using Blockchain]( Link to Repo ): It is Created Using React, it has a 3D background, and all the transactions are done using Avalanche Blockchain.
 - [Market Place](https://market-3g94.onrender.com): It uses Python Flask as the backend, and this project helped me in learning Flask and resolving many security challenges.
 - [Meme Generator](Link to Repo): It uses React and provides the user a template to create their meme and download the meme.
 - [Decentralized Voting App](https://vote-red-two.vercel.app/) It uses React in the frontend and joins the Smart contracts through hardhat and uses Express.js for the backend.

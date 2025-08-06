@@ -19,6 +19,7 @@ This is Tarrpurra. I am a  *frontend developer* and have a keen interest in game
 - [Supply Chain Management Using Blockchain]( Link to Repo ): It is Created Using React, it has a 3D background, and all the transactions are done using Avalanche Blockchain.
 - [Market Place](https://market-3g94.onrender.com): It uses Python Flask as the backend, and this project helped me in learning Flask and resolving many security challenges.
 - [Meme Generator](Link to Repo): It uses React and provides the user a template to create their meme and download the meme.
+- [Mini-linkdin](https://mini-linkdin-three.vercel.app):It is created using with Next.js and backend using Express Database ousing FireBase.
 - [Decentralized Voting App](https://vote-red-two.vercel.app/) It uses React in the frontend and joins the Smart contracts through hardhat and uses Express.js for the backend.
   > [!CAUTION]
   > Caution Change to Avalanche TestNet Before Voting and Refresh the browser if necessary.
